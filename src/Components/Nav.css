@@ -1,0 +1,16 @@
+.nav{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-around;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    align-items: center;
+}
+.links{
+    color: white;
+    text-decoration: none;
+}

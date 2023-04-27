@@ -1,0 +1,9 @@
+.product{
+    margin: 15px;
+    text-align: center;
+    width: 360px;
+    height: 100%;
+    box-shadow: 0 0 10px black;
+    padding: 30px;
+    border-radius: 10px;
+}
